@@ -1,0 +1,6 @@
+use_frameworks!
+target 'Database_Tests' do
+  pod 'DatabaseLayer', :path => '../'
+  
+  
+end

@@ -1,0 +1,24 @@
+{
+  "name": "DatabaseLayer",
+  "version": "0.1.1",
+  "summary": "Database Layer",
+  "swift_versions": "5.4",
+  "description": "Database layer for your Redux app",
+  "homepage": "https://gitlab.cleveroad.com/ios-redux/database",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ihor Yarovyi": "ihor.yarovyi.cr@gmail.com"
+  },
+  "source": {
+    "git": "https://gitlab.cleveroad.com/ios-redux/database.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "13.0"
+  },
+  "source_files": "**/Classes/**/*.{swift}",
+  "swift_version": "5.4"
+}

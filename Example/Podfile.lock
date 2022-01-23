@@ -1,0 +1,16 @@
+PODS:
+  - DatabaseLayer (0.1.1)
+
+DEPENDENCIES:
+  - DatabaseLayer (from `../`)
+
+EXTERNAL SOURCES:
+  DatabaseLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DatabaseLayer: 507d0f80f5c763fccd17e7694cb6fd78738dbb80
+
+PODFILE CHECKSUM: 75e0fb036777950b5948b31e428d57eb32efb0f6
+
+COCOAPODS: 1.10.1
